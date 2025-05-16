@@ -1,7 +1,7 @@
 
 # TaskCLI
 
-**TaskCLI** is a lightweight, Python-based command-line application that helps you manage your daily tasks efficiently. It supports basic task management operations such as add, update, delete, and list—all through simple commands.
+**TaskCLI** is a lightweight, Python-based command-line application that helps you manage your daily tasks efficiently. It supports basic task management operations such as add, update, delete, and list. all through simple commands.
 
 ## 🚀 Features
 
